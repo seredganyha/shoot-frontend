@@ -1,0 +1,7 @@
+{
+  "name": "shoot-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
